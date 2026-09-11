@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32104895/README.md)
-
 Welcome to the **Databricks Data Lakehouse Project**
 
 This repository contains a complete, real-world **Data Lakehouse implementation** built on Databricks, including datasets, notebooks, SQL examples, and exercises. Everything here is designed to help you understand how modern data teams use Databricks in practice, from data ingestion and transformation to analytics-ready data products.
