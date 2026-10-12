@@ -1,52 +1,22 @@
-Welcome to the **Databricks Data Lakehouse Project**
+MIT License
 
-This repository contains a complete, real-world **Data Lakehouse implementation** built on Databricks, including datasets, notebooks, SQL examples, and exercises. Everything here is designed to help you understand how to use Databricks in practice, from data ingestion and transformation to analytics-ready data products.
+Copyright (c) 2024 Baraa Khatib Salkini
+Copyright (c) 2026 Fares Bittar
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## 🏗️ Architecture
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-This project follows the **Medallion Architecture**:
-
-### 🥉 Bronze Layer
-- Raw data ingestion  
-- Schema inference and storage as Delta tables  
-
-### 🥈 Silver Layer
-- Data cleaning and standardization  
-- Type casting and validation  
-
-### 🥇 Gold Layer
-- Dimensional Data Model (Business Transformation)
-- Ready for BI and analysis  
-
----
-
-## 🛠️ Technologies Used
-
-- Databricks  
-- Apache Spark  
-- PySpark  
-- Spark SQL  
-- Delta Lake  
-- Unity Catalog  
-
-
----
-
-## Prerequisites
-- Basic SQL, Python and some Pyspark knowledge  
-- No prior Databricks experience required  
-
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
-
-Hi, I’m **Fares Bittar**.
-I’m a Jr data engineer, working across data engineering, analytics, and modern data platforms.
-My goal is to share my learning journey.
-
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
