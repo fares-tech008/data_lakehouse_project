@@ -8,6 +8,8 @@ A guided learning project: a small data lakehouse built on **Databricks** with B
 
 ## Architecture
 
+   ![Architecture](docs/architecture.png)
+
 | Layer | What it does | Tables (catalog `workspace`) |
 |-------|--------------|------------------------------|
 | **Bronze** | Reads each CSV from a Unity Catalog Volume and saves it as a Delta table, unchanged (schema inferred). | `bronze.crm_cust_info`, `crm_prd_info`, `crm_sales_details`, `erp_cust_az12`, `erp_loc_a101`, `erp_px_cat_g1v2` |
